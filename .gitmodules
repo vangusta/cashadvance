@@ -1,0 +1,4 @@
+[submodule "OCA/hr-expense"]
+	path = OCA/hr-expense
+	url = git@github.com:OCA/hr-expense.git
+	branch = 13.0
